@@ -1,0 +1,107 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-straight/css/uicons-regular-straight.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-thin-straight/css/uicons-thin-straight.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#header {
+  width: 100%;
+  height: 60px;
+  justify-content: space-between;
+  background-color: #b1d973;
+  align-items: center;
+  display: flex;
+  padding: 25px;
+}
+
+#p {
+  margin-top: 15px;
+  font-weight: bold;
+  font-family: 'Roboto Slab', serif;
+  font-size:larger;
+}
+
+#p2 {
+    width: 46%;
+    font-family: 'Roboto Slab', serif;
+    margin: 5%;
+    margin-top: 10%;
+    font-size: x-large;
+    margin-bottom: 2.85%;
+}
+
+#p3 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 7%;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+#p4 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 5%;
+    font-size: large;
+}
+
+.div {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  margin-left: 8px;
+  width: 100%;
+}
+
+#div2 {
+    background-color: #b1d973;
+    top: 20%;
+    height: 78%;
+    width: 30.5%;
+    margin-left: 65.5%;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.514);
+}
+
+.div3 {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.p3 {
+    font-weight: bolder;
+    justify-content: center;
+    display: flex;
+    margin-right: 50%;
+    align-items: center;
+    font-size: larger;
+}
+
+.p4 {
+    justify-content: center;
+    display: flex;
+    margin-right: 50%;
+    align-items: center;
+    font-size: large;
+}
+
+#img1 {
+  width: 2.5em;
+  height: 2.5em;
+}
+
+.img {
+    margin-top: 4px;
+    height: 20px;
+    width: 20px;
+}

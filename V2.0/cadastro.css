@@ -1,0 +1,160 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-straight/css/uicons-regular-straight.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
+@import url('https://cdn-uicons.flaticon.com/uicons-thin-straight/css/uicons-thin-straight.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    width: 100%;
+    height: 60px;
+    justify-content: space-between;
+    background-color: #b1d973;
+    align-items: center;
+    display: flex;
+    padding: 25px;
+}
+
+#p {
+    margin-top: 15px;
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    font-size: larger;
+}
+
+#p1 {
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    padding-top: 20%;
+}
+
+#p2 {
+    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+}
+
+.div {
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+    width: 100%;
+}
+
+#div2 {
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.514);
+    background-color: rgba(128, 128, 128, 0.39);
+    height: 400px;
+    width: 50%;
+    margin: auto;
+    margin-top: 7%;
+    margin-right: 27%;
+}
+
+#div3 {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.514);
+    background-color: #b1d973;
+    height: 400px;
+    width: 30%;
+    position: relative;
+    border-radius: 10px;
+}
+
+#div4 {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.514);
+    border-radius: 10px;
+    background-color: #b1d973;
+    height: 52px;
+    width: 26%;
+    margin-left: 20%;
+    margin-top: 1.5%;
+    position: absolute;
+}
+
+#div5 {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+#img1 {
+    width: 2.5em;
+    height: 2.5em;
+}
+
+#img2 {
+    width: 199px;
+    height: 250px;
+    margin-top: 34%;
+    border-radius: 10px;
+}
+
+#botao {
+    border: none;
+    font-family: 'Roboto Slab', serif;
+    width: 50%;
+    margin-left: 5%;
+    border-radius: 10px;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.514);
+    background-color: #b1d973;
+}
+
+#nome {
+    border: none;
+    width: 95%;
+    border-radius: 10px;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.514);
+    margin-bottom: 10%;
+}
+
+#senha {
+    border: none;
+    width: 95%;
+    border-radius: 10px;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.514);
+    margin-bottom: 10%;
+}
+
+#email {
+    border: none;
+    width: 95%;
+    border-radius: 10px;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.514);
+    margin-bottom: 10%;
+}
+
+#telefone {
+    border: none;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.514);
+    margin-bottom: 10%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+::placeholder {
+   padding-left: 15px;
+}

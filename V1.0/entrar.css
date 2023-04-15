@@ -1,0 +1,324 @@
+.e63_2 { 
+	overflow:hidden;
+}
+.e63_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e63_3 { 
+	background-color:rgba(13.812502026557922, 106.2499974668026, 34.14875239133835, 0.6499999761581421);
+	width:1440px;
+	height:149px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e63_4 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(13.999999165534973, 106.00000128149986, 33.99999417364597, 0.699999988079071);
+	width:191px;
+	height:68px;
+	position:absolute;
+	left:600px;
+	top:783px;
+	border-radius:20px;
+}
+.e63_5 { 
+	width:742px;
+	height:66px;
+	position:absolute;
+	left:687px;
+	top:41px;
+}
+.e63_6 { 
+	color:rgba(255, 255, 255, 1);
+	width:91px;
+	height:29px;
+	position:absolute;
+	left:103px;
+	top:20px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e63_7 { 
+	color:rgba(255, 255, 255, 1);
+	width:73px;
+	height:26px;
+	position:absolute;
+	left:0px;
+	top:21px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e63_8 { 
+	color:rgba(255, 255, 255, 1);
+	width:59px;
+	height:25px;
+	position:absolute;
+	left:224px;
+	top:22px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e63_9 { 
+	color:rgba(255, 255, 255, 1);
+	width:122px;
+	height:26px;
+	position:absolute;
+	left:313px;
+	top:21px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e63_10 { 
+	color:rgba(255, 255, 255, 1);
+	width:80px;
+	height:26px;
+	position:absolute;
+	left:466px;
+	top:20px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e63_11 { 
+	width:175px;
+	height:42px;
+	position:absolute;
+	left:567px;
+	top:12px;
+}
+.e63_12 { 
+	background-color:rgba(45.00000111758709, 48.000000938773155, 71.00000336766243, 1);
+	width:175px;
+	height:42px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:14px;
+	border-top-right-radius:14px;
+	border-bottom-left-radius:14px;
+	border-bottom-right-radius:14px;
+}
+.e63_13 { 
+	color:rgba(247.56250709295273, 247.56250709295273, 247.56250709295273, 1);
+	width:155px;
+	height:29px;
+	position:absolute;
+	left:10px;
+	top:7px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+
+.e263_6 { 
+	transform: rotate(-1.4033419209422001e-14deg);
+	width:77px;
+	height:0px;
+	position:absolute;
+	left:461px;
+	top:51px;
+}
+
+.e263_6 { 
+	border:3px solid rgba(45.00000111758709, 48.000000938773155, 71.00000336766243, 1);
+}
+
+.e63_18 { 
+	transform: rotate(180deg);
+	width:100px;
+	height:0px;
+	position:absolute;
+	left:560px;
+	top:890px;
+}
+.e63_18 { 
+	border:1px solid rgba(45.00000111758709, 48.000000938773155, 71.00000336766243, 1);
+}
+.e63_19 { 
+	transform: rotate(180deg);
+	width:100px;
+	height:0px;
+	position:absolute;
+	left:728px;
+	top:890px;
+}
+.e63_19 { 
+	border:1px solid rgba(45.00000111758709, 48.000000938773155, 71.00000336766243, 1);
+}
+.e63_20 { 
+	width:110px;
+	height:100px;
+	position:absolute;
+	left:112px;
+	top:25px;
+	background-image:url(images/logo\ branco.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e63_21 { 
+	color:rgba(0, 0, 0, 1);
+	width:234px;
+	height:55px;
+	position:absolute;
+	left:475px;
+	top:470px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e63_22 { 
+	color:rgba(0, 0, 0, 1);
+	width:41px;
+	height:55px;
+	position:absolute;
+	left:680px;
+	top:873px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e63_23 { 
+	color:rgba(0, 0, 0, 1);
+	width:178px;
+	height:25px;
+	position:absolute;
+	left:635px;
+	top:927px;
+	font-family:Sora;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e63_24 { 
+	color:rgba(0, 0, 0, 1);
+	width:234px;
+	height:55px;
+	position:absolute;
+	left:475px;
+	top:595px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e63_25 { 
+	color:rgba(0, 0, 0, 1);
+	width:448px;
+	height:55px;
+	position:absolute;
+	left:475px;
+	top:373px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e63_26 { 
+	color:rgba(0, 0, 0, 1);
+	width:236px;
+	height:33px;
+	position:absolute;
+	left:738px;
+	top:702px;
+	font-family:Sora;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+
+.e63_28 { 
+	color:rgba(0, 0, 0, 1);
+	width:191px;
+	height:68px;
+	position:absolute;
+	left:485px;
+	top:805px;
+	font-family:Sora;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e63_29 { 
+	width:22px;
+	height:22px;
+	position:absolute;
+	left:592px;
+	top:927px;
+	background-image:url(images/icon_google1_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.e63_30 {
+	box-shadow: 5px 4px 4px rgb(0 0 0 / 25%);
+    background-color: rgba(236.93750202655792, 229.03958022594452, 229.03958022594452, 1);
+    width: 525px;
+    height: 60px;
+    position: absolute;
+    left: 427px;
+    top: 455px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.e63_31 {
+	box-shadow: 5px 4px 4px rgb(0 0 0 / 25%);
+    background-color: rgba(236.93750202655792, 229.03958022594452, 229.03958022594452, 1);
+    width: 525px;
+    height: 60px;
+    position: absolute;
+    left: 427px;
+    top: 580px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+input {
+	background-color: var(--color-realbox-background);
+	border: none;
+	border-radius: var(--ntp-realbox-border-radius);
+	color: var(--color-realbox-foreground);
+	font-family: inherit;
+	font-size: inherit;
+	outline: 0;
+	position: relative;
+	width: 425px;
+}
+
+a:link {
+	color:rgb(110, 184, 26);
+}
+
+
+a:visited {
+	color:rgb(110, 184, 26);
+}
+
+
+a:hover {
+    color:rgba(14, 194, 14, 0.911);
+}
+
+a:active {
+	color:rgba(14, 194, 14, 0.911);
+}
