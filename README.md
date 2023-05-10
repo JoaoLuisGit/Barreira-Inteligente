@@ -45,4 +45,4 @@ Dentro desse projeto existem as páginas:
 
 3. Deixarei disponibilizado também a versão 1.0 do projeto para analisarem a evolução. A versão 1.0 foi criada dentro do figma utilizando um plugin que gerava automaticamente os códigos prontos de HTML e CSS.
 
-4. Esse projeto não é responsivo!
+4. Este projeto não é responsivo!
