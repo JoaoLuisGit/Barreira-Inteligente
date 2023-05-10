@@ -37,3 +37,10 @@ Dentro desse projeto existem as páginas:
 ### Não recebi o código 
 - Se o usuário não conseguir o código na página Esqueci a Senha, ele poderá acessar esta página para gerar um novo código instantâneo, seja através do e-mail ou número de celular cadastrado.
 
+## Observações
+
+1. A ideia do projeto foi criada com pouco tempo de entrega. Então o login e cadastro se tornou uma ideia adicional e que se encaixava nos requisitos do docente. Em todo caso, permaneci com a ideia alocada no projeto como um demonstrativo do que posso fazer.
+
+2. O projeto 2.0 foi criado em apenas 3 dias, ou seja, ainda receberá novas atualizações.
+
+3. Deixarei disponibilizado também a versão 1.0 do projeto para analisarem a evolução. A versão 1.0 foi criada dentro do figma utilizando um plugin que gerava automaticamente os códigos prontos de HTML e CSS.
