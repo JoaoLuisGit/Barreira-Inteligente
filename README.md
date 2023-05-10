@@ -1,4 +1,4 @@
-# PROJETO-WEB
+# PROJETOS WEB
  
- ##Site de deslizamento de barreira;
- ##Site com o tema voltado ao jogo Valorant;
+ ## Site de deslizamento de barreira;
+ ## Site com o tema voltado ao jogo Valorant;
