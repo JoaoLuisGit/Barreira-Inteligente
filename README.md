@@ -44,3 +44,5 @@ Dentro desse projeto existem as páginas:
 2. O projeto 2.0 foi criado em apenas 3 dias, ou seja, ainda receberá novas atualizações.
 
 3. Deixarei disponibilizado também a versão 1.0 do projeto para analisarem a evolução. A versão 1.0 foi criada dentro do figma utilizando um plugin que gerava automaticamente os códigos prontos de HTML e CSS.
+
+4. Esse projeto não é responsivo!
