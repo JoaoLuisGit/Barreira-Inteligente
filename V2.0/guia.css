@@ -26,21 +26,26 @@
     font-size: larger;
 }
 
-.p2{
- font-size: larger;
- font-weight: bold;
- justify-content: center;
- display: flex;
- font-family: 'Roboto Slab', serif;
+.p2 {
+    font-size: larger;
+    font-weight: bold;
+    justify-content: center;
+    display: flex;
+    font-family: 'Roboto Slab', serif;
 }
 
-.p3{
+.p3 {
     justify-content: center;
     display: flex;
     font-family: 'Roboto Slab', serif;
     text-align: center;
     font-size: large;
     margin: 1%;
+}
+
+.ul {
+    padding-top: 5%;
+    width: 100%;
 }
 
 .div {
@@ -55,8 +60,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 17%;
+    margin-top: 15%;
     margin-right: 2.7%;
+}
+
+.div5 {
+    width: 60%;
+    height: 700px;
+    background-color: #b0d973;
+    border-radius: 20px;
+    margin-top: 45%;
+    margin-left: 20%;
+    box-shadow: 0px 2px 4px 2px gray;
 }
 
 .principal {
@@ -67,6 +82,8 @@
     border-radius: 15px;
     margin-top: auto;
     box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.445);
+    display: inline-block;
+    cursor: pointer;
 }
 
 .secundaria {
@@ -78,7 +95,7 @@
     position: relative;
     z-index: 1;
     bottom: 50px;
-    box-shadow: 3px 4px 4px  #0d155f;
+    box-shadow: 3px 4px 4px #0d155f;
 }
 
 #img1 {
@@ -90,4 +107,14 @@
     width: 75%;
     height: auto;
     margin: 11.5px;
+}
+
+.tab-content {
+    position: absolute;
+    margin-top: 40%;
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
 }
